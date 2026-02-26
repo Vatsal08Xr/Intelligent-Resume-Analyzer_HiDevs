@@ -1,0 +1,46 @@
+Aisha Sharma
+Hyderabad, India
+Phone: +91 9123456789
+Email: aisha.sharma.dev@gmail.com
+
+ABOUT ME
+I am a full stack developer with 4+ years of experience building scalable web applications. I enjoy leading teams, solving complex problems, and improving system performance.
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+ABC Institute of Technology, Hyderabad
+2016 – 2020
+
+EXPERIENCE
+Frontend Developer - PixelCraft Solutions
+Aug 2020 – Sep 2022
+- Built responsive websites using HTML, CSS, JavaScript
+- Developed dashboards using React
+- Improved page load speed by 40%
+
+Full Stack Developer - TechNova Labs
+Oct 2022 – Present
+- Designed REST APIs using Node and Express
+- Integrated MongoDB databases
+- Deployed apps using Docker and AWS
+- Mentored junior developers
+
+SKILLS
+HTML, CSS, JavaScript, React, Node, Express, MongoDB, Docker, AWS, Git, Linux
+
+SOFT SKILLS
+Leadership, Communication, Mentoring, Problem solving, Time management, Collaboration
+
+CERTIFICATIONS
+AWS Solutions Architect Associate
+Meta Front-End Developer Professional Certificate
+
+PROJECTS
+E-Commerce Platform
+- Built full stack shopping platform with payment integration
+
+LANGUAGES
+English, Telugu, Hindi
+
+HOBBIES
+Traveling, blogging, photography

@@ -1,0 +1,49 @@
+{
+  "name": "Aisha Sharma",
+  "email": "aisha.sharma.dev@gmail.com",
+  "phone": "+91 9123456789",
+  "location": "Hyderabad, India",
+  "education": [
+    "Bachelor of Engineering in Information Technology",
+    "ABC Institute of Technology, Hyderabad",
+    "2016 - 2020"
+  ],
+  "roles": [
+    "Frontend Developer - PixelCraft Solutions",
+    "Full Stack Developer - TechNova Labs"
+  ],
+  "certifications": [
+    "AWS Solutions Architect Associate",
+    "Meta Front-End Developer Professional Certificate"
+  ],
+  "skills": {
+    "technical": [
+      "aws",
+      "css",
+      "docker",
+      "express",
+      "git",
+      "html",
+      "javascript",
+      "linux",
+      "mongodb",
+      "node",
+      "react"
+    ],
+    "soft": [
+      "collaboration",
+      "communication",
+      "leadership",
+      "mentoring",
+      "problem solving",
+      "time management"
+    ]
+  },
+  "experience_years": 5.57,
+  "quality_assessment": {
+    "completeness_score": 1.0,
+    "ambiguity_flags": [],
+    "missing_sections": [],
+    "data_quality_issues": []
+  }
+}

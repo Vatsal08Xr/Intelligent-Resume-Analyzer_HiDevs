@@ -1,0 +1,8 @@
+{
+  "skills": ["Python", "SQL", "Machine Learning", "Docker"],
+  "min_experience": 2,
+  "weights": {
+    "skills": 0.7,
+    "experience": 0.3
+  }
+}
