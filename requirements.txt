@@ -1,1 +1,2 @@
-# Add your project dependencies here
+# No external dependencies
+# Uses only Python standard library
