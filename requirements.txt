@@ -1,8 +1,7 @@
-re
-json
-sys
-datetime
-argparse
-collections
-math
-os
+# Intelligent Resume Analyzer
+# -----------------------------------
+# This project uses ONLY Python standard library modules.
+# No external dependencies required.
+
+# Python version
+python>=3.10
